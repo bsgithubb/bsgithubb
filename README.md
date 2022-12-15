@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bsgithubb
-- 👀 I’m interested in ... Python coding & Automation
+- 👀 I’m interested in ... Python coding, Data Science, & Automation
 - 🌱 I’m currently learning ... Python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... bryansegarra1@outlook.com
 
 <!---
